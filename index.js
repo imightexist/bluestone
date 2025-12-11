@@ -3,5 +3,5 @@ let pkg = {
     webcrack:require('webcrack')
 }
 function init(...directory){
-    // lol fuck git
+    // lol fuck git 2
 }
